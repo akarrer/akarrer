@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akarrer
+- 👋 Hi, I’m Alex Karrer
 - 👀 I’m interested in data systems and machine learning
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on ...
