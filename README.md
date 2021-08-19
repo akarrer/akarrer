@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akarrer
 - 👀 I’m interested in data systems and machine learning
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me at alexkarrer1@gmail.com
 
 <!---
 akarrer/akarrer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
